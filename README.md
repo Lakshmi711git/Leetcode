@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Lakshmi711git/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi711git/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Lakshmi711git/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Lakshmi711git/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lakshmi711git/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Lakshmi711git/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Lakshmi711git/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi711git/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Lakshmi711git/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Lakshmi711git/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Math
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lakshmi711git/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Lakshmi711git/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Lakshmi711git/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Design
 |  |
 | ------- |
